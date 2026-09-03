@@ -1,7 +1,7 @@
 <h1>Tehokolmikko</h1> 
  
 <img src="{{ site.baseurl }}/tehokolmikko_transparent.png" alt="Tehokolmikko">
-
+<p>
 Tervetuloa tehokolmosten kotisivuille :) 
 
 -Kotisiivous 
@@ -20,3 +20,4 @@ TEHOKOLMIKKO
 Riitta | Timo | Päivi 
 p. 045 862 7443 
 tehokolmoset@gmail.com
+</p>
