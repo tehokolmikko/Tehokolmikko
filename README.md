@@ -3,7 +3,7 @@
 <img src="{{ site.baseurl }}/tehokolmikko_transparent.png" alt="Tehokolmikko">
 
 Tervetuloa tehokolmosten kotisivuille :) 
- 
+
 -Kotisiivous 
 -ikkunoiden pesu 
 -Pyykkihuolto 
