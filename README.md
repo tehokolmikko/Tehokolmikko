@@ -1,17 +1,17 @@
 <h1>Tehokolmikko</h1> 
  
 <img src="{{ site.baseurl }}/tehokolmikko_transparent.png" alt="Tehokolmikko">
-<br>
+<p></p>
 Tervetuloa tehokolmosten kotisivuille :) 
-<br>
--Kotisiivous <br>
--ikkunoiden pesu <br>
--Pyykkihuolto <br>
--Kodin askareet <br>
--Saattajpalvelu <br>
--Asiointiapu <br>
--Henkilökohtainen avustus <br>
- <br>
+<p></p>
+-Kotisiivous
+-ikkunoiden pesu
+-Pyykkihuolto
+-Kodin askareet
+-Saattajpalvelu
+-Asiointiapu
+-Henkilökohtainen avustus
+<p></p>
 55€/henkilö Kotitalousvähennys -35% 
  
 Pitopalvelut. 
