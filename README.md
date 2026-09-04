@@ -4,13 +4,13 @@
 <p></p>
 Tervetuloa tehokolmosten kotisivuille :) 
 <p></p>
--Kotisiivous
--ikkunoiden pesu
--Pyykkihuolto
--Kodin askareet
--Saattajpalvelu
--Asiointiapu
--Henkilökohtainen avustus
+-Kotisiivous<br>
+-ikkunoiden pesu<br>
+-Pyykkihuolto<br>
+-Kodin askareet<br>
+-Saattajpalvelu<br>
+-Asiointiapu<br>
+-Henkilökohtainen avustus<br>
 <p></p>
 55€/henkilö Kotitalousvähennys -35% 
  
