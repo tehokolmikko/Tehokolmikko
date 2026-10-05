@@ -12,7 +12,7 @@ Tervetuloa tehokolmosten kotisivuille :)
 -Asiointiapu<br>
 -Henkilökohtainen avustus<br>
 <br>
-55€/henkilö Kotitalousvähennys -35% 
+40€/henkilö Kotitalousvähennys -35% 
  <br>
 Pitopalvelut. <br>
 <br> 
