@@ -1,7 +1,5 @@
 o<h1>Tehokolmikko</h1> 
  
-<img src="{{ site.baseurl }}/tehokolmikko_transparent.png" alt="Tehokolmikko">
-
 Tervetuloa tehokolmosten kotisivuille :) 
 
 -Kotisiivous<br>
