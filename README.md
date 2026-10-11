@@ -1,4 +1,4 @@
-<h1>Tehokolmikko</h1> 
+o<h1>Tehokolmikko</h1> 
  
 <img src="{{ site.baseurl }}/tehokolmikko_transparent.png" alt="Tehokolmikko">
 
@@ -12,7 +12,8 @@ Tervetuloa tehokolmosten kotisivuille :)
 -Asiointiapu<br>
 -Henkilökohtainen avustus<br>
 <br>
-40€ h/henkilö Kotitalousvähennys -35% 
+40€ h/henk. 
+Kotitalousvähennys -35% 
  <br>
 Pitopalvelut. <br>
 <br> 
