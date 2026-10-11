@@ -1,4 +1,4 @@
-o<h1>Tehokolmikko</h1> 
+<h1>Tehokolmikko</h1> 
  
 Tervetuloa tehokolmosten kotisivuille :) 
 
