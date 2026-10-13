@@ -11,7 +11,7 @@ Tervetuloa tehokolmosten kotisivuille :)
 -Henkilökohtainen avustus<br>
 <br>
 40€ h/henk. 
-Kotitalousvähennys -35% 
+Kotitalousvähennys -40% 
  <br>
 Pitopalvelut. <br>
 <br> 
